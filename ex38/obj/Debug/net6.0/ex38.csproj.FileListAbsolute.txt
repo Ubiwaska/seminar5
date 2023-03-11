@@ -1,0 +1,5 @@
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.csproj.AssemblyReference.cache
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.AssemblyInfoInputs.cache
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.AssemblyInfo.cs
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.csproj.CoreCompileInputs.cache
