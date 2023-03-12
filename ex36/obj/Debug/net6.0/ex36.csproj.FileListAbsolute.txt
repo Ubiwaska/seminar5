@@ -1,0 +1,15 @@
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ex36.csproj.AssemblyReference.cache
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ex36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ex36.AssemblyInfoInputs.cache
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ex36.AssemblyInfo.cs
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ex36.csproj.CoreCompileInputs.cache
+/Users/polinagalkina/Desktop/seminar5/ex36/bin/Debug/net6.0/ex36
+/Users/polinagalkina/Desktop/seminar5/ex36/bin/Debug/net6.0/ex36.deps.json
+/Users/polinagalkina/Desktop/seminar5/ex36/bin/Debug/net6.0/ex36.runtimeconfig.json
+/Users/polinagalkina/Desktop/seminar5/ex36/bin/Debug/net6.0/ex36.dll
+/Users/polinagalkina/Desktop/seminar5/ex36/bin/Debug/net6.0/ex36.pdb
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ex36.dll
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/refint/ex36.dll
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ex36.pdb
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ex36.genruntimeconfig.cache
+/Users/polinagalkina/Desktop/seminar5/ex36/obj/Debug/net6.0/ref/ex36.dll
