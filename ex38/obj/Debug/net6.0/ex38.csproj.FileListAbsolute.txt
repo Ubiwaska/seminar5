@@ -3,3 +3,13 @@
 /Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.AssemblyInfoInputs.cache
 /Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.AssemblyInfo.cs
 /Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.csproj.CoreCompileInputs.cache
+/Users/polinagalkina/Desktop/seminar5/ex38/bin/Debug/net6.0/ex38
+/Users/polinagalkina/Desktop/seminar5/ex38/bin/Debug/net6.0/ex38.deps.json
+/Users/polinagalkina/Desktop/seminar5/ex38/bin/Debug/net6.0/ex38.runtimeconfig.json
+/Users/polinagalkina/Desktop/seminar5/ex38/bin/Debug/net6.0/ex38.dll
+/Users/polinagalkina/Desktop/seminar5/ex38/bin/Debug/net6.0/ex38.pdb
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.dll
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/refint/ex38.dll
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.pdb
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ex38.genruntimeconfig.cache
+/Users/polinagalkina/Desktop/seminar5/ex38/obj/Debug/net6.0/ref/ex38.dll
